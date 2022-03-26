@@ -11,7 +11,7 @@ const data = [
     id:1,
     image:im1,
     title:'La Muse',
-    description:"Ce site web permet de donner de l'inspiration au artistes qui en sont en manques. L'artiste choisi un oeuvre et une image de fond. L'intelligence artificielle en génère une autre.",
+    description:"Ce site web permet de donner de l'inspiration aux artistes qui en sont en manques. L'artiste choisi un oeuvre et une image de fond. L'intelligence artificielle en génère une autre.",
     competences:"HTML, CSS, Javascript, PHP, MySQL",
     demo:demo1
   },

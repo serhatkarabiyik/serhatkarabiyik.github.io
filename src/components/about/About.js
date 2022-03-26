@@ -13,7 +13,7 @@ export default function About() {
           <p>
             J'aide les entreprises et les particuliers à créer leurs site web et à offrir une expérience utilisateur exceptionnelle.
             Je suis passionné par la conception de sites Web.  
-            Mon objectif est d'améliorer le Web en concevant de superbes expériences, d’aider un maximum de personnes à développer leurs projets. 
+            Mon objectif est d'améliorer le Web en concevant de superbe expérience, d’aider un maximum de personne à développer leurs projets. 
             Que ce soit pour un projet d'application web, de site personnel ou encore un portfolio.
           </p>
         </div>

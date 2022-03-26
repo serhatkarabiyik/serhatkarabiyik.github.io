@@ -2,7 +2,7 @@ import React from 'react'
 import './competence.css'
 
 import {AiOutlineHtml5, AiOutlineConsoleSql} from 'react-icons/ai'
-import {FaCss3Alt, FaReact, FaSymfony, FaPhp, FaNodeJs, FaPython} from 'react-icons/fa'
+import {FaCss3Alt, FaReact, FaSymfony, FaPhp, FaNodeJs} from 'react-icons/fa'
 import {DiJavascript} from 'react-icons/di'
 
 export default function Competence() {
@@ -30,10 +30,6 @@ export default function Competence() {
                   <FaReact className='competence_detail-icon'/>
                   <h4>React</h4>
                 </article>
-                <article className="competence_detail">
-                  <FaSymfony className='competence_detail-icon'/>
-                  <h4>Symfony</h4>
-                </article>
               </div>
           </div>
           <div className="competence__backend">
@@ -52,8 +48,8 @@ export default function Competence() {
                   <h4>NodeJS</h4>
                 </article>
                 <article className="competence_detail">
-                  <FaPython className='competence_detail-icon'/>
-                  <h4>Python</h4>
+                  <FaSymfony className='competence_detail-icon'/>
+                  <h4>Symfony</h4>
                 </article>
               </div>
           </div>

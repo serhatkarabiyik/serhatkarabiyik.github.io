@@ -1,8 +1,6 @@
 import React from "react";
 import "./portfolio.css";
 
-import demo1 from "../../doc/LaMuse.mp4";
-import demo2 from "../../doc/Splash.mp4";
 import im1 from "../../doc/LaMuse.png";
 import im2 from "../../doc/splash.png";
 
@@ -14,7 +12,6 @@ const data = [
     description:
       "Ce site web permet de donner de l'inspiration aux artistes qui en sont en manques. L'artiste choisi un oeuvre et une image de fond. L'intelligence artificielle en génère une autre.",
     competences: "HTML, CSS, Javascript, PHP, MySQL",
-    demo: demo1,
   },
   {
     id: 2,
@@ -23,7 +20,6 @@ const data = [
     description:
       "Création d'une application vitrine avec figma, nous avons crée un prototype d'application de chat.",
     competences: "Figma",
-    demo: demo2,
   },
 ];
 export default function Portfolio() {

@@ -12,9 +12,6 @@ import ClockLoader from 'react-spinners/ClockLoader';
 
 
 
-
-
-
 export default function App() {
 
   const [loading, setLoading] = useState(false);
